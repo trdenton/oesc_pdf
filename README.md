@@ -1,2 +1,5 @@
 # oesc_pdf
-violentmonkey example script
+
+Violentmonkey example script to save images from "AriaViewer" reader.  For educational purposes.
+
+probably works with tampermonkey.  Greasemonkey did not work (in firefox)
