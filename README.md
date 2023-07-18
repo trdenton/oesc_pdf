@@ -8,4 +8,4 @@ Navigating to the page will cause the userscript to traverse the document and sa
 Note - it does not know when to stop.  It will continue saving the last page until you close the tab.  Keep an eye on it.
 
 
-Converting the images to a pdf and ocr'ing it is left as an exercise for the reader.  [img2pdf](https://github.com/myollie/img2pdf)https://github.com/myollie/img2pdf) and [ocrmypdf](https://github.com/ocrmypdf/OCRmyPDF) are tools worth exploring.
+Converting the images to a pdf and ocr'ing it is left as an exercise for the reader.  [img2pdf](https://github.com/myollie/img2pdf) and [ocrmypdf](https://github.com/ocrmypdf/OCRmyPDF) are tools worth exploring.
